@@ -1,0 +1,36 @@
+{
+  "item": {
+    "id": "LegacyItem46",
+    "restype": "watchface",
+    "name": "户山香澄 表盘",
+    "description": "在手环上每天都能看见来自Poppin'Party的户山香澄！",
+    "preview": [
+      "Previews/1.png",
+      "Previews/2.png",
+      "Previews/3.png",
+      "Previews/4.png"
+    ],
+    "icon": "icon.png",
+    "cover": "头图.png",
+    "author": [
+      {
+        "name": "曉凛",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "icon": "linux-logo",
+      "title": "QQ群",
+      "url": "https://qm.qq.com/q/ehkNWA7J7O"
+    }
+  ],
+  "downloads": {
+    "xmb9p": {
+      "version": "v2.1",
+      "file_name": "v2.1.bin"
+    }
+  },
+  "ext": {}
+}
